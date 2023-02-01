@@ -1,3 +1,16 @@
+# Setting up sanity:
+1. npm install -g @sanity/cli in folder 'backend_sanity_io'
+2. sanity init
+3. choose the intended options forsetting project.
+4. to run: npm run dev
+5. sanity server runs on :  http://localhost:3333/
+6. **FYI**: Sanity Io account is must to track your projects and for other settings.
+
+## Imp Links for my reference:
+https://www.sanity.io/guides/hierarchies-graphs-navigation?skipCdn=true
+https://github.com/sanity-io/hierarchical-document-list
+
+
 # Sanity Blogging Content Studio
 
 Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
