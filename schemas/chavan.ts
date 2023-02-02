@@ -1,14 +1,22 @@
 import {defineField, defineType} from 'sanity'
 
 export default defineType({
-  name: 'author',
-  title: 'Author',
+  name: 'chavan',
+  title: 'Chavan',
   type: 'document',
   fields: [
     defineField({
       name: 'name',
       title: 'Name',
       type: 'string',
+    }),
+    defineField({
+      name: 'birthday',
+      title: 'Birthday',
+      type: 'date',
+      options: {
+        dateFormat: 'yyyy-MM-dd'
+      }
     }),
     defineField({
       name: 'slug',

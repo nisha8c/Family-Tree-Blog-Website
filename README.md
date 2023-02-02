@@ -7,9 +7,9 @@
 6. **FYI**: Sanity Io account is must to track your projects and for other settings.
 
 ## Imp Links for my reference:
-https://www.sanity.io/guides/hierarchies-graphs-navigation?skipCdn=true
-https://github.com/sanity-io/hierarchical-document-list
-
+1. https://www.sanity.io/guides/hierarchies-graphs-navigation?skipCdn=true
+2. https://github.com/sanity-io/hierarchical-document-list
+3. https://www.sanity.io/docs/date-type
 
 # Sanity Blogging Content Studio
 
